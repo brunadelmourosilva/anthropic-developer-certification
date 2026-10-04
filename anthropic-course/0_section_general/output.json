@@ -1,0 +1,65 @@
+[
+  {
+    "output": "# Marathon Training Nutrition Plan\n**Daily Target: 3,200 calories | Protein: 110g | Carbs: 520g | Fat: 70g**\n\n---\n\n## **BREAKFAST** (7:00 AM)\n*680 calories | 18g protein | 120g carbs | 12g fat*\n\n- Oatmeal: 80g dry\n- Banana: 150g (1 large)\n- Honey: 20g\n- Whole milk: 200ml\n- Greek yogurt: 100g\n\n---\n\n## **MID-MORNING SNACK** (10:00 AM)\n*380 calories | 12g protein | 75g carbs | 4g fat*\n\n- White bread: 80g (2 slices)\n- Peanut butter alternative (tahini): 25g\n- Jam: 30g\n- Orange juice: 250ml\n\n---\n\n## **LUNCH** (1:00 PM)\n*750 calories | 28g protein | 140g carbs | 18g fat*\n\n- Brown rice: 150g cooked\n- Lentil curry: 200g (lentils 80g dry + vegetables)\n- Olive oil: 15ml\n- Cucumber: 100g\n- Whole wheat bread: 60g\n\n---\n\n## **PRE-RUN SNACK** (3:30 PM - 1-2 hours before training)\n*320 calories | 8g protein | 68g carbs | 2g fat*\n\n- Banana: 120g\n- Dates: 80g (pitted)\n- Rice cakes: 40g\n\n---\n\n## **DINNER** (7:00 PM)\n*470 calories | 26g protein | 65g carbs | 20g fat*\n\n- Chickpea pasta: 100g dry\n- Tomato sauce: 150g\n- Cottage cheese: 150g\n- Broccoli: 150g\n- Olive oil: 10ml\n\n---\n\n## **EVENING SNACK** (9:30 PM)\n*200 calories | 18g protein | 52g carbs | 4g fat*\n\n- Milk: 250ml\n- Cereal (low sugar): 40g\n- Honey: 15g\n\n---\n\n## **HYDRATION STRATEGY**\n\n- **Daily**: 2.5-3L water throughout the day\n- **During long runs** (>90 min): Sports drink (6-8% carbs) = 150ml every 15-20 min\n- **Post-run**: 500ml chocolate milk within 30 minutes (carbs + protein recovery)\n\n---\n\n## **KEY NOTES**\n\n\u2713 **High carbs** fuel endurance training  \n\u2713 **Spread protein** across meals for muscle repair  \n\u2713 **Time meals** 3-4 hours before long runs  \n\u2713 Replace tahini/seeds instead of nuts  \n\u2713 Estimated cost: **$35-45/week** (vegetarian staples are budget-friendly)",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "68 kg",
+        "goal": "Marathon runner preparing for a race - needs high carbohydrate intake with approximately 3,000-3,500 calories and proper hydration strategy",
+        "restrictions": "Vegetarian, no nuts"
+      },
+      "solution_criteria": [
+        "Meal plan spans exactly 1 day with 3-4 meals/snacks",
+        "Carbohydrates comprise 60-65% of total daily calories",
+        "Total daily calories align with the 3,000-3,500 calorie goal",
+        "All meals respect vegetarian and nut-free restrictions"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a specific sport athlete (e.g., marathon runner) requiring high carbohydrate intake and specific caloric targets"
+    },
+    "score": 9,
+    "reasoning": "The solution comprehensively meets all mandatory requirements with clear daily totals, detailed macronutrient breakdowns, and specific meals with portions and timing. All dietary restrictions are properly observed. Against the secondary criteria: the meal plan spans exactly 1 day with 6 eating occasions (exceeds the 3-4 minimum), and calorie alignment is solid at 3,200 (within range). The only technical deficiency is carbohydrate percentage at 65.0%, which marginally exceeds the 60-65% upper bound. This is a minor violation that does not undermine the overall quality of the plan. The solution is well-organized, practical, and includes valuable hydration strategy and implementation notes."
+  },
+  {
+    "output": "# Personalized Nutrition Plan\n\n## Daily Calorie Target & Macros\n- **Daily Calories: 2,800-3,000 kcal** (for muscle building + endurance training)\n- **Protein: 130-145g** (1.8-2g per kg bodyweight)\n- **Carbohydrates: 380-420g** (5-6g per kg)\n- **Fat: 70-85g** (20-25% of calories)\n\n---\n\n## Daily Meal Plan\n\n### **BREAKFAST (7:00 AM)** | ~650 kcal\n- Gluten-free oatmeal: 80g\n- Banana: 150g\n- Pumpkin seeds: 30g\n- Soy milk: 250ml\n- Honey: 15g\n*Protein: 18g | Carbs: 78g | Fat: 16g*\n\n### **SNACK 1 (10:30 AM)** | ~280 kcal\n- Greek yogurt (non-dairy, soy-based): 200g\n- Blueberries: 100g\n- Sunflower seeds: 20g\n*Protein: 16g | Carbs: 32g | Fat: 8g*\n\n### **LUNCH (1:00 PM)** | ~750 kcal\n- Cooked lentils: 200g\n- Brown rice: 150g\n- Spinach: 100g\n- Olive oil: 15ml\n- Chickpea pasta: 80g (gluten-free)\n*Protein: 28g | Carbs: 95g | Fat: 15g*\n\n### **SNACK 2 (4:00 PM)** | ~320 kcal\n- Hummus: 80g\n- Carrot sticks: 150g\n- Pita bread (gluten-free): 50g\n- Tahini: 15g\n*Protein: 12g | Carbs: 32g | Fat: 14g*\n\n### **DINNER (7:00 PM)** | ~800 kcal\n- Tofu: 250g\n- Quinoa: 120g\n- Broccoli: 150g\n- Sweet potato: 200g\n- Olive oil: 15ml\n*Protein: 32g | Carbs: 85g | Fat: 18g*\n\n### **PRE/POST-WORKOUT (as needed)** | ~200 kcal\n- Rice cakes: 50g\n- Nut-free seed butter: 20g\n- Date: 40g\n*Protein: 8g | Carbs: 28g | Fat: 7g*\n\n---\n\n## Key Recommendations\n\u2705 **Protein sources:** Tofu, tempeh, lentils, chickpeas, pumpkin/sunflower seeds, tahini  \n\u2705 **Carbs for endurance:** Oatmeal, brown rice, quinoa, sweet potato, gluten-free pasta  \n\u2705 **Hydration:** 3-4L water daily  \n\u2705 **Supplement consideration:** B12 (vegetarian), Vitamin D, Omega-3s (algae-based)",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "72 kg",
+        "goal": "muscle building and endurance training",
+        "restrictions": "vegetarian, gluten-free, no tree nuts"
+      },
+      "solution_criteria": [
+        "Meal plan contains exactly 3 meals (breakfast, lunch, dinner) covering 1 full day",
+        "All meals are vegetarian, gluten-free, and tree nut-free",
+        "Meal plan is compact and concise (under 200 words total)",
+        "Meals support muscle building and endurance goals with adequate protein and carbohydrates"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with an athlete with dietary restrictions (e.g., vegetarian, gluten-free, or nut allergy) requiring constraint-based meal planning"
+    },
+    "score": 5,
+    "reasoning": "The solution demonstrates strong nutritional knowledge and meets all mandatory requirements with high quality. However, it critically fails two secondary criteria: it provides 6 eating occasions instead of exactly 3 meals, and it is substantially longer than the 200-word limit. While the content is excellent and well-structured, the task explicitly requested a compact plan with exactly 3 meals. The solution could have consolidated snacks into the main meals or presented a more streamlined format to meet the conciseness requirement."
+  },
+  {
+    "output": "# Nutrition Plan for Vegetarian Strength Athlete\n\n## Daily Calorie & Macro Targets\n- **Daily Calories:** 2,800-3,000 kcal\n- **Protein:** 130-140g (1.5-1.65g per kg bodyweight)\n- **Carbs:** 380-420g (4.5-5g per kg)\n- **Fat:** 80-90g (0.9-1.05g per kg)\n\n---\n\n## Sample Daily Meal Plan\n\n### **Breakfast (7:00 AM)** \u2014 650 kcal\n- Oatmeal: 80g dry\n- Banana: 150g\n- Almond butter: 30g\n- Plant-based milk: 250ml\n- **Macros:** P: 18g | C: 85g | F: 20g\n\n### **Mid-Morning Snack (10:00 AM)** \u2014 280 kcal\n- Chickpea pasta: 80g cooked\n- Hummus: 40g\n- Carrot sticks: 80g\n- **Macros:** P: 12g | C: 32g | F: 8g\n\n### **Lunch (1:00 PM)** \u2014 750 kcal\n- Lentil curry (red lentils 100g dry): 280g prepared\n- Brown rice: 120g cooked\n- Coconut milk: 100ml\n- Spinach: 50g\n- **Macros:** P: 32g | C: 95g | F: 18g\n\n### **Pre-Workout Snack (3:30 PM)** \u2014 320 kcal\n- Tofu, firm: 150g pan-fried\n- White rice: 100g cooked\n- Soy sauce: 10ml\n- **Macros:** P: 18g | C: 38g | F: 8g\n\n### **Post-Workout (5:30 PM)** \u2014 380 kcal\n- Pea protein powder: 30g\n- Oat milk: 300ml\n- Berries (frozen): 100g\n- Chia seeds: 15g\n- **Macros:** P: 28g | C: 42g | F: 8g\n\n### **Dinner (7:30 PM)** \u2014 520 kcal\n- Black beans: 150g cooked\n- Quinoa: 80g cooked\n- Roasted broccoli: 150g\n- Olive oil: 15ml\n- Nutritional yeast: 10g\n- **Macros:** P: 22g | C: 58g | F: 15g\n\n---\n\n## Key Protein Sources (Budget-Friendly)\n- Lentils (red, green, brown): 25g protein per 100g dry\n- Chickpeas: 19g protein per 100g dry\n- Tofu: 8g protein per 100g\n- Tempeh: 19g protein per 100g\n- Pea protein powder: 25g protein per 30g\n- Quinoa: 8g protein per 100g cooked\n- Hemp seeds: 10g protein per 30g\n- Peanut butter: 8g protein per 30g\n\n---\n\n## Shopping Tips for Budget\n\u2713 Buy lentils & chickpeas in bulk  \n\u2713 Choose seasonal vegetables  \n\u2713 Store-brand plant milk  \n\u2713 Oats in bulk (cheapest carb)  \n\u2713 Frozen vegetables to reduce waste  \n\n**Adjust portions based on hunger and training intensity.** Weigh yourself weekly\u2014if no progress in 2-3 weeks, add 200 kcal.",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "180 cm",
+        "weight": "85 kg",
+        "goal": "Build muscle mass through strength training with optimal protein distribution",
+        "restrictions": "Vegetarian, no dairy"
+      },
+      "solution_criteria": [
+        "Meal plan spans exactly 1 day with 4-5 meals distributed to support strength training",
+        "Protein intake distributed across meals with higher amounts around workout timing (pre/post workout emphasis)",
+        "Estimated daily protein meets athlete's requirements (approximately 1.6-2.2g per kg body weight)",
+        "Includes practical, compact meal descriptions suitable for a single athlete"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Testing with a strength-training athlete requiring high protein distribution across meals and specific meal timing around workout sessions"
+    },
+    "score": 7,
+    "reasoning": "The solution successfully addresses all mandatory requirements with daily caloric total, detailed macronutrient breakdown, and meals with exact foods, portions, and timing. Protein intake (130-140g) appropriately targets 1.53-1.65g/kg bodyweight with strategic pre/post-workout emphasis. The plan is practical, compact, and well-suited for a vegetarian strength athlete. However, the solution includes 6 meals rather than the requested 4-5, and contains calculation discrepancies in individual meal macros that undermine precision. Despite these issues, the core requirements are met and the plan is functionally sound for the stated goal."
+  }
+]

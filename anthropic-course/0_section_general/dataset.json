@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Marathon runner preparing for a race - needs high carbohydrate intake with approximately 3,000-3,500 calories and proper hydration strategy",
+      "restrictions": "Vegetarian, no nuts"
+    },
+    "solution_criteria": [
+      "Meal plan spans exactly 1 day with 3-4 meals/snacks",
+      "Carbohydrates comprise 60-65% of total daily calories",
+      "Total daily calories align with the 3,000-3,500 calorie goal",
+      "All meals respect vegetarian and nut-free restrictions"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a specific sport athlete (e.g., marathon runner) requiring high carbohydrate intake and specific caloric targets"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "72 kg",
+      "goal": "muscle building and endurance training",
+      "restrictions": "vegetarian, gluten-free, no tree nuts"
+    },
+    "solution_criteria": [
+      "Meal plan contains exactly 3 meals (breakfast, lunch, dinner) covering 1 full day",
+      "All meals are vegetarian, gluten-free, and tree nut-free",
+      "Meal plan is compact and concise (under 200 words total)",
+      "Meals support muscle building and endurance goals with adequate protein and carbohydrates"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with an athlete with dietary restrictions (e.g., vegetarian, gluten-free, or nut allergy) requiring constraint-based meal planning"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "85 kg",
+      "goal": "Build muscle mass through strength training with optimal protein distribution",
+      "restrictions": "Vegetarian, no dairy"
+    },
+    "solution_criteria": [
+      "Meal plan spans exactly 1 day with 4-5 meals distributed to support strength training",
+      "Protein intake distributed across meals with higher amounts around workout timing (pre/post workout emphasis)",
+      "Estimated daily protein meets athlete's requirements (approximately 1.6-2.2g per kg body weight)",
+      "Includes practical, compact meal descriptions suitable for a single athlete"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength-training athlete requiring high protein distribution across meals and specific meal timing around workout sessions"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Parse an AWS S3 object URI and extract the bucket name and key. Given a string like 's3://my-bucket/path/to/object.txt', return a JSON object with bucket and key fields.",
+    "format": "python"
+  },
+  {
+    "task": "Create a JSON IAM policy document that allows a user to read objects from a specific S3 bucket named 'data-lake'.",
+    "format": "json"
+  },
+  {
+    "task": "Write a regex pattern that matches valid AWS EC2 instance IDs (format: i- followed by 17 hexadecimal characters).",
+    "format": "regex"
+  }
+]
