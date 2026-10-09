@@ -1,0 +1,201 @@
+id,title,artist,album,year,genre,bpm,energy,mood,duration_sec,notes
+t001,Noite Lenta,Neon Jardim,Sol Sessions,2005,lofi,64,0.32,melancholic,309,Radio edit.
+t002,Vento em Chamas,Maré Alta,Noite Sessions,1998,electronic,120,0.73,focused,274,"Instrumental, great for studying."
+t003,Cobre Dourada,Velvet Rio,Maré Sessions,2005,hiphop,94,0.76,energetic,314,Live recording from a small club.
+t004,Neon Lenta,Sombra & Luz,Cidade Sessions,2004,hiphop,104,0.67,energetic,217,"Instrumental, great for studying."
+t005,Neon Lenta,DJ Pitanga,Noite Sessions,2021,pop,124,0.69,romantic,140,Radio edit.
+t006,Cobre Vazia,Banda Horizonte,Vento Sessions,2004,electronic,119,0.67,energetic,317,Features a long guitar solo.
+t007,Sol de Verão,Maré Alta,Maré Sessions,2006,electronic,144,0.87,happy,161,Features a long guitar solo.
+t008,Sol Lenta,DJ Pitanga,Cobre Sessions,2018,pop,99,0.71,happy,256,
+t009,Cidade da Madrugada,Ciranda Digital,Maré Sessions,2006,rock,169,0.82,nostalgic,176,
+t010,Noite Elétrica,Atlas Lunar,Noite Sessions,2023,lofi,70,0.22,relaxed,174,Radio edit.
+t011,Sol da Madrugada,Atlas Lunar,Maré Sessions,2018,lofi,74,0.14,relaxed,183,
+t012,Vento em Chamas,Nina Ferrugem,Vento Sessions,2010,jazz,116,0.29,relaxed,250,Minimal arrangement with warm bass.
+t013,Noite de Verão,Maré Alta,Cidade Sessions,2018,electronic,125,0.93,happy,272,"Instrumental, great for studying."
+t014,Maré da Madrugada,Quarteto Âmbar,Poeira Sessions,2006,mpb,105,0.59,romantic,294,
+t015,Cobre Dourada,Neon Jardim,Chuva Sessions,2022,lofi,80,0.2,focused,231,Live recording from a small club.
+t016,Noite Lenta,Tomás Brisa,Poeira Sessions,2022,rock,121,0.78,energetic,280,Features a long guitar solo.
+t017,Cidade Vazia,Velvet Rio,Cidade Sessions,2015,hiphop,104,0.87,energetic,273,Features a long guitar solo.
+t018,Noite de Verão,Eco Urbano,Neon Sessions,2024,jazz,109,0.3,relaxed,265,"Instrumental, great for studying."
+t019,Janela de Verão,Maré Alta,Poeira Sessions,2022,electronic,123,0.69,happy,260,Live recording from a small club.
+t020,Poeira em Chamas,Nina Ferrugem,Sol Sessions,2015,jazz,95,0.49,romantic,291,
+t021,Janela Dourada,DJ Pitanga,Janela Sessions,2001,pop,110,0.58,romantic,125,Radio edit.
+t022,Vento Elétrica,Ciranda Digital,Noite Sessions,2000,rock,155,0.82,energetic,137,"Instrumental, great for studying."
+t023,Estrada Dourada,Atlas Lunar,Sol Sessions,2006,lofi,81,0.25,melancholic,153,
+t024,Sol da Madrugada,Eco Urbano,Maré Sessions,2004,jazz,82,0.24,romantic,210,Minimal arrangement with warm bass.
+t025,Janela Azul,Sombra & Luz,Cobre Sessions,2018,hiphop,100,0.58,angry,306,Features a long guitar solo.
+t026,Sol Elétrica,Neon Jardim,Sol Sessions,2015,lofi,74,0.14,relaxed,191,Minimal arrangement with warm bass.
+t027,Estrada da Madrugada,Ciranda Digital,Poeira Sessions,2001,rock,113,0.83,nostalgic,123,"Instrumental, great for studying."
+t028,Cidade em Chamas,Ciranda Digital,Janela Sessions,2013,rock,123,0.9,energetic,162,Minimal arrangement with warm bass.
+t029,Maré Lenta,Luna Cobalto,Janela Sessions,2007,rock,137,0.84,nostalgic,320,Radio edit.
+t030,Cidade Elétrica,Eco Urbano,Chuva Sessions,2004,jazz,77,0.43,nostalgic,135,
+t031,Noite Azul,Atlas Lunar,Vento Sessions,2013,lofi,76,0.38,melancholic,160,"Instrumental, great for studying."
+t032,Cidade de Verão,Maré Alta,Vento Sessions,2000,electronic,130,0.79,focused,183,Radio edit.
+t033,Vento de Verão,Os Vagalumes,Maré Sessions,2019,jazz,136,0.33,romantic,172,
+t034,Sol Lenta,Atlas Lunar,Maré Sessions,2002,lofi,81,0.29,focused,200,"Instrumental, great for studying."
+t035,Janela de Verão,Luna Cobalto,Estrada Sessions,2015,rock,123,0.78,energetic,209,"Instrumental, great for studying."
+t036,Neon Lenta,Ciranda Digital,Cidade Sessions,2012,rock,163,0.79,angry,276,
+t037,Cobre Dourada,Luna Cobalto,Chuva Sessions,2019,rock,116,0.93,energetic,187,"Instrumental, great for studying."
+t038,Poeira sem Fim,Neon Jardim,Chuva Sessions,2007,lofi,79,0.16,focused,172,
+t039,Poeira da Madrugada,Nina Ferrugem,Chuva Sessions,2025,jazz,76,0.24,romantic,190,"Instrumental, great for studying."
+t040,Neon sem Fim,Luna Cobalto,Cobre Sessions,2006,rock,120,0.86,nostalgic,300,Minimal arrangement with warm bass.
+t041,Estrada de Verão,Luna Cobalto,Cidade Sessions,2015,rock,112,0.89,nostalgic,261,Live recording from a small club.
+t042,Cidade Azul,Sombra & Luz,Chuva Sessions,2009,hiphop,105,0.89,energetic,211,Live recording from a small club.
+t043,Cobre de Verão,Ciranda Digital,Neon Sessions,2022,rock,145,0.91,angry,278,
+t044,Sol sem Fim,Cais do Sol,Cidade Sessions,2011,pop,96,0.56,romantic,320,Minimal arrangement with warm bass.
+t045,Chuva sem Fim,Ciranda Digital,Estrada Sessions,2010,rock,165,0.61,angry,176,Live recording from a small club.
+t046,Neon Lenta,Tomás Brisa,Sol Sessions,2005,rock,111,0.83,angry,204,Features a long guitar solo.
+t047,Chuva Vazia,Maré Alta,Cobre Sessions,2014,electronic,140,0.89,focused,204,"Instrumental, great for studying."
+t048,Chuva sem Fim,Neon Jardim,Vento Sessions,2006,lofi,61,0.13,focused,208,
+t049,Maré Dourada,Atlas Lunar,Estrada Sessions,2010,lofi,88,0.27,focused,131,
+t050,Noite Dourada,Sombra & Luz,Poeira Sessions,2019,hiphop,103,0.88,focused,291,Live recording from a small club.
+t051,Maré de Verão,DJ Pitanga,Cobre Sessions,2008,pop,115,0.73,happy,304,Features a long guitar solo.
+t052,Cobre em Chamas,Banda Horizonte,Neon Sessions,2010,electronic,133,0.84,energetic,227,
+t053,Cobre sem Fim,Quarteto Âmbar,Vento Sessions,2016,mpb,89,0.38,romantic,197,Features a long guitar solo.
+t054,Maré Vazia,Velvet Rio,Janela Sessions,2012,hiphop,94,0.79,focused,241,
+t055,Cobre de Verão,Pedro Quasar,Chuva Sessions,2014,mpb,112,0.48,relaxed,143,Live recording from a small club.
+t056,Sol Elétrica,Banda Horizonte,Cidade Sessions,1998,electronic,117,0.74,happy,276,"Instrumental, great for studying."
+t057,Maré Elétrica,Tomás Brisa,Maré Sessions,2013,rock,135,0.69,nostalgic,296,"Instrumental, great for studying."
+t058,Maré Elétrica,Neon Jardim,Cidade Sessions,2023,lofi,90,0.31,focused,132,Radio edit.
+t059,Estrada da Madrugada,Ciranda Digital,Cidade Sessions,2023,rock,139,0.83,nostalgic,272,Features a long guitar solo.
+t060,Vento Dourada,Tomás Brisa,Maré Sessions,2024,rock,168,0.79,energetic,310,Minimal arrangement with warm bass.
+t061,Chuva Elétrica,Tomás Brisa,Cobre Sessions,2006,rock,159,0.87,angry,280,Live recording from a small club.
+t062,Janela de Verão,Nina Ferrugem,Chuva Sessions,2005,jazz,104,0.33,nostalgic,140,Live recording from a small club.
+t063,Sol em Chamas,Cais do Sol,Cidade Sessions,2020,pop,108,0.52,romantic,204,Radio edit.
+t064,Maré Azul,Tomás Brisa,Sol Sessions,2024,rock,136,0.74,nostalgic,298,"Instrumental, great for studying."
+t065,Janela Azul,Quarteto Âmbar,Neon Sessions,2007,mpb,118,0.38,relaxed,257,
+t066,Janela Elétrica,Ciranda Digital,Chuva Sessions,2011,rock,141,0.61,angry,291,
+t067,Cidade da Madrugada,Quarteto Âmbar,Cidade Sessions,2017,mpb,104,0.21,relaxed,271,Radio edit.
+t068,Estrada em Chamas,Luna Cobalto,Cidade Sessions,2025,rock,139,0.66,angry,217,Features a long guitar solo.
+t069,Janela Vazia,Velvet Rio,Neon Sessions,2022,hiphop,92,0.65,angry,184,"Instrumental, great for studying."
+t070,Noite Dourada,Eco Urbano,Noite Sessions,2009,jazz,98,0.46,nostalgic,130,"Instrumental, great for studying."
+t071,Sol Azul,Ciranda Digital,Vento Sessions,2002,rock,125,0.64,nostalgic,149,Radio edit.
+t072,Janela Lenta,Velvet Rio,Neon Sessions,2003,hiphop,99,0.76,focused,303,"Instrumental, great for studying."
+t073,Chuva de Verão,Pedro Quasar,Vento Sessions,1998,mpb,89,0.46,relaxed,221,
+t074,Estrada Elétrica,Velvet Rio,Estrada Sessions,2020,hiphop,104,0.66,focused,273,"Instrumental, great for studying."
+t075,Neon Dourada,Os Vagalumes,Maré Sessions,2019,jazz,117,0.23,nostalgic,207,"Instrumental, great for studying."
+t076,Janela de Verão,Sombra & Luz,Maré Sessions,2009,hiphop,100,0.86,angry,301,Live recording from a small club.
+t077,Cidade Dourada,Sombra & Luz,Cobre Sessions,2006,hiphop,99,0.83,focused,318,Minimal arrangement with warm bass.
+t078,Maré Lenta,Tomás Brisa,Neon Sessions,2025,rock,125,0.89,energetic,191,Minimal arrangement with warm bass.
+t079,Janela em Chamas,Ciranda Digital,Neon Sessions,1998,rock,141,0.9,energetic,244,Live recording from a small club.
+t080,Chuva Vazia,DJ Pitanga,Chuva Sessions,2017,pop,112,0.69,energetic,168,"Instrumental, great for studying."
+t081,Maré da Madrugada,Ciranda Digital,Poeira Sessions,2022,rock,125,0.84,nostalgic,302,Minimal arrangement with warm bass.
+t082,Noite de Verão,Tomás Brisa,Chuva Sessions,2005,rock,135,0.84,angry,289,Radio edit.
+t083,Janela Dourada,DJ Pitanga,Poeira Sessions,2009,pop,122,0.85,energetic,204,Features a long guitar solo.
+t084,Chuva Lenta,Tomás Brisa,Chuva Sessions,2005,rock,117,0.85,angry,150,
+t085,Sol Elétrica,Pedro Quasar,Janela Sessions,2006,mpb,116,0.47,nostalgic,272,Features a long guitar solo.
+t086,Sol Lenta,Neon Jardim,Sol Sessions,2009,lofi,65,0.19,melancholic,256,Live recording from a small club.
+t087,Noite Azul,Nina Ferrugem,Poeira Sessions,2007,jazz,86,0.46,romantic,146,"Instrumental, great for studying."
+t088,Janela da Madrugada,Banda Horizonte,Janela Sessions,2008,electronic,126,0.99,happy,242,"Instrumental, great for studying."
+t089,Maré da Madrugada,Maré Alta,Estrada Sessions,2016,electronic,118,0.7,focused,197,"Instrumental, great for studying."
+t090,Estrada Dourada,Ciranda Digital,Maré Sessions,2017,rock,148,0.88,energetic,318,Radio edit.
+t091,Janela da Madrugada,Quarteto Âmbar,Chuva Sessions,2025,mpb,107,0.65,relaxed,265,Radio edit.
+t092,Vento de Verão,Os Vagalumes,Sol Sessions,2018,jazz,97,0.31,relaxed,160,Live recording from a small club.
+t093,Poeira de Verão,Pedro Quasar,Cidade Sessions,1998,mpb,96,0.4,nostalgic,240,Features a long guitar solo.
+t094,Sol Lenta,Os Vagalumes,Chuva Sessions,2020,jazz,128,0.23,relaxed,187,
+t095,Maré de Verão,Velvet Rio,Poeira Sessions,2005,hiphop,100,0.6,angry,156,"Instrumental, great for studying."
+t096,Cidade Lenta,Os Vagalumes,Vento Sessions,2021,jazz,106,0.38,romantic,296,Features a long guitar solo.
+t097,Chuva Dourada,Quarteto Âmbar,Poeira Sessions,2013,mpb,98,0.24,romantic,230,
+t098,Vento Lenta,Atlas Lunar,Noite Sessions,2000,lofi,67,0.39,melancholic,270,"Instrumental, great for studying."
+t099,Vento Azul,Nina Ferrugem,Cidade Sessions,2013,jazz,136,0.46,romantic,166,Radio edit.
+t100,Cobre da Madrugada,Sombra & Luz,Estrada Sessions,2013,hiphop,91,0.69,angry,291,"Instrumental, great for studying."
+t101,Neon em Chamas,Pedro Quasar,Janela Sessions,2007,mpb,112,0.63,nostalgic,129,Minimal arrangement with warm bass.
+t102,Neon Lenta,Maré Alta,Neon Sessions,2001,electronic,140,0.95,energetic,288,Radio edit.
+t103,Maré Azul,Tomás Brisa,Sol Sessions,2014,rock,133,0.82,angry,280,Minimal arrangement with warm bass.
+t104,Sol Lenta,Os Vagalumes,Poeira Sessions,2002,jazz,106,0.38,nostalgic,244,"Instrumental, great for studying."
+t105,Cobre Elétrica,Luna Cobalto,Cidade Sessions,2007,rock,145,0.6,angry,143,Live recording from a small club.
+t106,Janela de Verão,Neon Jardim,Cobre Sessions,2024,lofi,64,0.25,melancholic,194,Radio edit.
+t107,Maré da Madrugada,Nina Ferrugem,Janela Sessions,2005,jazz,128,0.42,romantic,168,Radio edit.
+t108,Estrada Lenta,Cais do Sol,Maré Sessions,2008,pop,127,0.59,happy,192,
+t109,Vento da Madrugada,Banda Horizonte,Cidade Sessions,2012,electronic,149,0.82,happy,261,Radio edit.
+t110,Janela Vazia,Quarteto Âmbar,Sol Sessions,2020,mpb,85,0.46,romantic,318,Minimal arrangement with warm bass.
+t111,Neon da Madrugada,Os Vagalumes,Maré Sessions,2010,jazz,89,0.4,relaxed,152,Radio edit.
+t112,Estrada da Madrugada,Atlas Lunar,Estrada Sessions,2014,lofi,89,0.24,melancholic,156,Minimal arrangement with warm bass.
+t113,Estrada da Madrugada,Cais do Sol,Chuva Sessions,2008,pop,120,0.73,romantic,292,Radio edit.
+t114,Neon da Madrugada,Quarteto Âmbar,Poeira Sessions,1999,mpb,109,0.23,nostalgic,295,Features a long guitar solo.
+t115,Estrada em Chamas,Ciranda Digital,Estrada Sessions,2022,rock,150,0.85,energetic,233,Live recording from a small club.
+t116,Noite Azul,Banda Horizonte,Neon Sessions,2023,electronic,118,0.75,happy,230,Live recording from a small club.
+t117,Poeira em Chamas,Ciranda Digital,Vento Sessions,2019,rock,160,0.66,energetic,140,Radio edit.
+t118,Vento Elétrica,Quarteto Âmbar,Janela Sessions,2016,mpb,79,0.3,nostalgic,185,Minimal arrangement with warm bass.
+t119,Cobre Azul,Nina Ferrugem,Janela Sessions,2007,jazz,139,0.26,romantic,208,Radio edit.
+t120,Cobre em Chamas,Banda Horizonte,Chuva Sessions,2012,electronic,134,0.72,happy,243,"Instrumental, great for studying."
+t121,Maré Vazia,Ciranda Digital,Vento Sessions,2007,rock,154,0.7,nostalgic,221,Features a long guitar solo.
+t122,Vento Azul,Luna Cobalto,Vento Sessions,2021,rock,141,0.89,angry,318,Live recording from a small club.
+t123,Sol Elétrica,DJ Pitanga,Vento Sessions,2006,pop,103,0.72,energetic,285,"Instrumental, great for studying."
+t124,Janela Azul,Banda Horizonte,Vento Sessions,2009,electronic,123,0.68,happy,203,
+t125,Cidade Elétrica,Sombra & Luz,Cidade Sessions,2023,hiphop,97,0.86,angry,255,Radio edit.
+t126,Cidade Lenta,Nina Ferrugem,Janela Sessions,2023,jazz,107,0.5,romantic,325,"Instrumental, great for studying."
+t127,Estrada sem Fim,Tomás Brisa,Sol Sessions,2025,rock,153,0.85,angry,325,Radio edit.
+t128,Estrada em Chamas,DJ Pitanga,Noite Sessions,2006,pop,129,0.54,romantic,292,
+t129,Vento em Chamas,Nina Ferrugem,Cobre Sessions,2009,jazz,83,0.47,romantic,126,Radio edit.
+t130,Vento Elétrica,Atlas Lunar,Cobre Sessions,2000,lofi,80,0.35,melancholic,197,
+t131,Estrada sem Fim,Sombra & Luz,Noite Sessions,1999,hiphop,89,0.9,energetic,144,Live recording from a small club.
+t132,Maré da Madrugada,Cais do Sol,Neon Sessions,2019,pop,129,0.65,energetic,306,Live recording from a small club.
+t133,Cobre de Verão,Sombra & Luz,Janela Sessions,2017,hiphop,93,0.88,angry,128,
+t134,Sol da Madrugada,DJ Pitanga,Janela Sessions,2005,pop,118,0.53,energetic,214,Radio edit.
+t135,Noite em Chamas,DJ Pitanga,Chuva Sessions,2004,pop,102,0.83,romantic,143,
+t136,Cobre Azul,Velvet Rio,Noite Sessions,2023,hiphop,90,0.64,energetic,321,Radio edit.
+t137,Estrada Dourada,Velvet Rio,Sol Sessions,2016,hiphop,86,0.83,energetic,204,Live recording from a small club.
+t138,Chuva sem Fim,Luna Cobalto,Cidade Sessions,2015,rock,126,0.88,energetic,289,"Instrumental, great for studying."
+t139,Noite Vazia,Cais do Sol,Sol Sessions,2016,pop,115,0.51,romantic,133,Live recording from a small club.
+t140,Poeira de Verão,Sombra & Luz,Estrada Sessions,2013,hiphop,94,0.82,focused,271,"Instrumental, great for studying."
+t141,Poeira Elétrica,Tomás Brisa,Vento Sessions,1999,rock,156,0.87,nostalgic,253,Features a long guitar solo.
+t142,Cobre Azul,Tomás Brisa,Noite Sessions,2013,rock,164,0.74,nostalgic,147,Minimal arrangement with warm bass.
+t143,Estrada de Verão,Tomás Brisa,Neon Sessions,2017,rock,119,0.62,angry,279,
+t144,Maré Dourada,Atlas Lunar,Chuva Sessions,2012,lofi,76,0.28,relaxed,323,
+t145,Cobre Dourada,Neon Jardim,Sol Sessions,2011,lofi,74,0.37,focused,206,Minimal arrangement with warm bass.
+t146,Maré de Verão,Quarteto Âmbar,Neon Sessions,2011,mpb,90,0.5,relaxed,159,
+t147,Estrada de Verão,Eco Urbano,Estrada Sessions,2000,jazz,125,0.24,nostalgic,215,Live recording from a small club.
+t148,Vento Dourada,Os Vagalumes,Poeira Sessions,2008,jazz,85,0.36,nostalgic,312,Minimal arrangement with warm bass.
+t149,Chuva Lenta,Os Vagalumes,Neon Sessions,2001,jazz,134,0.29,nostalgic,243,Live recording from a small club.
+t150,Neon Dourada,Neon Jardim,Neon Sessions,2001,lofi,84,0.18,relaxed,326,Minimal arrangement with warm bass.
+t151,Vento Lenta,Luna Cobalto,Noite Sessions,2003,rock,127,0.85,angry,206,Features a long guitar solo.
+t152,Cidade sem Fim,Luna Cobalto,Vento Sessions,2019,rock,135,0.62,nostalgic,282,"Instrumental, great for studying."
+t153,Poeira Elétrica,Maré Alta,Maré Sessions,2011,electronic,144,0.77,happy,199,
+t154,Vento de Verão,Atlas Lunar,Noite Sessions,2002,lofi,65,0.33,relaxed,292,"Instrumental, great for studying."
+t155,Janela em Chamas,Nina Ferrugem,Janela Sessions,2017,jazz,126,0.37,relaxed,313,Radio edit.
+t156,Neon em Chamas,Neon Jardim,Estrada Sessions,2007,lofi,81,0.3,focused,254,
+t157,Noite Elétrica,Banda Horizonte,Maré Sessions,2017,electronic,118,0.65,happy,174,Live recording from a small club.
+t158,Chuva Vazia,Nina Ferrugem,Estrada Sessions,1998,jazz,133,0.5,relaxed,153,Minimal arrangement with warm bass.
+t159,Poeira Dourada,Ciranda Digital,Cobre Sessions,2023,rock,132,0.63,nostalgic,130,Minimal arrangement with warm bass.
+t160,Janela de Verão,Luna Cobalto,Neon Sessions,2016,rock,137,0.8,nostalgic,283,Minimal arrangement with warm bass.
+t161,Estrada em Chamas,Banda Horizonte,Noite Sessions,2008,electronic,125,0.93,focused,237,
+t162,Estrada em Chamas,DJ Pitanga,Estrada Sessions,2005,pop,122,0.71,energetic,140,Minimal arrangement with warm bass.
+t163,Neon Elétrica,Banda Horizonte,Neon Sessions,2022,electronic,125,0.68,focused,149,Radio edit.
+t164,Neon Vazia,Velvet Rio,Cobre Sessions,2024,hiphop,84,0.63,energetic,185,Live recording from a small club.
+t165,Vento sem Fim,Pedro Quasar,Cobre Sessions,2000,mpb,81,0.63,nostalgic,246,Minimal arrangement with warm bass.
+t166,Cobre Vazia,Tomás Brisa,Cobre Sessions,2008,rock,119,0.75,angry,233,
+t167,Chuva Azul,Banda Horizonte,Neon Sessions,2014,electronic,119,0.76,happy,129,"Instrumental, great for studying."
+t168,Chuva de Verão,DJ Pitanga,Cobre Sessions,2025,pop,100,0.72,energetic,218,Minimal arrangement with warm bass.
+t169,Janela Elétrica,Os Vagalumes,Neon Sessions,2017,jazz,130,0.4,relaxed,235,"Instrumental, great for studying."
+t170,Estrada Dourada,Atlas Lunar,Cobre Sessions,2003,lofi,61,0.17,focused,232,Radio edit.
+t171,Neon Vazia,Pedro Quasar,Chuva Sessions,2010,mpb,96,0.55,nostalgic,273,"Instrumental, great for studying."
+t172,Estrada Vazia,Atlas Lunar,Estrada Sessions,2015,lofi,81,0.22,focused,305,
+t173,Neon de Verão,Cais do Sol,Vento Sessions,2019,pop,104,0.82,romantic,287,
+t174,Cidade de Verão,Quarteto Âmbar,Chuva Sessions,2015,mpb,94,0.49,relaxed,328,Live recording from a small club.
+t175,Cobre em Chamas,Maré Alta,Poeira Sessions,2009,electronic,116,0.78,energetic,174,Features a long guitar solo.
+t176,Sol Elétrica,Eco Urbano,Cidade Sessions,2002,jazz,79,0.32,relaxed,249,Radio edit.
+t177,Cobre Vazia,Os Vagalumes,Vento Sessions,2002,jazz,118,0.26,relaxed,297,Radio edit.
+t178,Janela Azul,Pedro Quasar,Maré Sessions,2009,mpb,113,0.52,relaxed,276,Features a long guitar solo.
+t179,Sol Dourada,Tomás Brisa,Sol Sessions,2007,rock,161,0.87,energetic,214,
+t180,Janela Lenta,Tomás Brisa,Maré Sessions,2014,rock,143,0.75,energetic,329,Live recording from a small club.
+t181,Chuva Azul,Cais do Sol,Cobre Sessions,2013,pop,118,0.69,happy,302,Radio edit.
+t182,Chuva de Verão,Neon Jardim,Cidade Sessions,2006,lofi,74,0.37,relaxed,231,"Instrumental, great for studying."
+t183,Janela Vazia,Ciranda Digital,Noite Sessions,2011,rock,113,0.74,angry,180,Minimal arrangement with warm bass.
+t184,Neon Elétrica,Maré Alta,Noite Sessions,2008,electronic,121,0.94,focused,205,Live recording from a small club.
+t185,Noite Lenta,Cais do Sol,Janela Sessions,2020,pop,103,0.77,romantic,234,Radio edit.
+t186,Estrada Azul,Luna Cobalto,Chuva Sessions,2004,rock,163,0.65,nostalgic,275,Radio edit.
+t187,Estrada Lenta,Sombra & Luz,Sol Sessions,2007,hiphop,83,0.57,angry,283,Radio edit.
+t188,Estrada de Verão,Tomás Brisa,Janela Sessions,2017,rock,144,0.61,nostalgic,267,Live recording from a small club.
+t189,Chuva em Chamas,Cais do Sol,Noite Sessions,2017,pop,117,0.58,romantic,167,
+t190,Poeira Vazia,Maré Alta,Estrada Sessions,2014,electronic,149,0.83,focused,261,"Instrumental, great for studying."
+t191,Janela Azul,Quarteto Âmbar,Cobre Sessions,2010,mpb,93,0.31,romantic,211,"Instrumental, great for studying."
+t192,Sol de Verão,DJ Pitanga,Vento Sessions,2021,pop,116,0.55,romantic,259,Features a long guitar solo.
+t193,Cobre da Madrugada,Pedro Quasar,Janela Sessions,2018,mpb,81,0.57,romantic,303,Minimal arrangement with warm bass.
+t194,Chuva Elétrica,Os Vagalumes,Noite Sessions,2023,jazz,95,0.55,romantic,199,Radio edit.
+t195,Poeira da Madrugada,Quarteto Âmbar,Chuva Sessions,1999,mpb,118,0.49,relaxed,211,"Instrumental, great for studying."
+t196,Chuva de Verão,Atlas Lunar,Neon Sessions,2011,lofi,88,0.22,focused,218,Features a long guitar solo.
+t197,Janela da Madrugada,Pedro Quasar,Neon Sessions,2023,mpb,103,0.32,romantic,306,Minimal arrangement with warm bass.
+t198,Maré sem Fim,Maré Alta,Poeira Sessions,2007,electronic,135,0.69,happy,289,Features a long guitar solo.
+t199,Janela em Chamas,Banda Horizonte,Cidade Sessions,2020,electronic,143,0.77,energetic,306,Features a long guitar solo.
+t200,Chuva Azul,Sombra & Luz,Estrada Sessions,2019,hiphop,100,0.69,focused,325,
