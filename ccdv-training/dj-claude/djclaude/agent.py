@@ -5,6 +5,7 @@ import time
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Awaitable, Callable
+from djclaude.errors import call_llm
 
 ExecuteTool = Callable[[str, dict], Awaitable[tuple[str, bool]]]
 
@@ -58,7 +59,7 @@ async def run_agent(client, *, model, system, tools, execute_tool: ExecuteTool, 
             params["tools"] = tools
 
         started = time.perf_counter()
-        response = await client.messages.create(**params)
+        response = await call_llm(client, **params)
         elapsed = time.perf_counter() - started
 
         total_in += response.usage.input_tokens

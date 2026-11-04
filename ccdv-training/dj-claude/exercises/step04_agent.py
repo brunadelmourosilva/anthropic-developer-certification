@@ -18,7 +18,7 @@ async def main():
         trace_path=Path("traces/step04.jsonl"),
     )
     print(result.text)
-    print(result.stop_reason, "| iterações:", result.iterations,
+    print("stop_reason:", result.stop_reason, "| iterações:", result.iterations,
           "| tokens in/out:", result.input_tokens, result.output_tokens)
 
 asyncio.run(main())
