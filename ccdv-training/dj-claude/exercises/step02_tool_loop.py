@@ -10,7 +10,7 @@ client = anthropic.Anthropic()
 # 3º case: Crie a playlist 'Teste' e adicione 3 faixas de pop.
 # 4º case: Quanto dura a playlist Teste?
 
-messages = [{"role": "user", "content": "Crie a playlist 'Rock' e adicione 3 faixas de rock."}]
+messages = [{"role": "user", "content": "Quanto dura a playlist Teste?"}]
 
 while True:
     response = client.messages.create(model=MODEL_WORKER, max_tokens=1024, tools=TOOLS, messages=messages)
@@ -36,5 +36,7 @@ while True:
             results.append({"type": "tool_result", "tool_use_id": block.id,
                             "content": content, "is_error": is_error})
     messages.append({"role": "user", "content": results})               # turno imediatamente seguinte
+
+    print("messages content:", messages)
 
 print("".join(b.text for b in response.content if b.type == "text"))

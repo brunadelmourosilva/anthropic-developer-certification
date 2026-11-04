@@ -900,7 +900,25 @@ Crie `exercises/step04_workflow.py` implementando o **mesmo pedido** como workfl
 2. **Código puro** (sem IA): busca faixas, soma durações até o alvo, cria a playlist.
 3. Sem mais chamadas ao Claude.
 
-Compare tokens e latência com o agente. Depois mande um pedido vago: *"algo pra um dia de chuva"*. Qual dos dois sobrevive? Anote quando cada um vence — é exatamente a tabela *"steps enumeráveis em código" vs "objetivo conhecido, caminho não"*.
+Compare tokens e latência com o agente. 
+
+```
+Resultado: 
+
+Tokens: workflow consumiu muito menos se comparado ao agente. 
+Latência: a latência de uma chamada do workflow foi mais baixa se comparada a cada uma das chamadas feitas pelo agente.
+Conclusão: Por fim, a playlist foi criada corretamente no modelo de workflow.
+```
+
+
+Depois mande um pedido vago: *"algo pra um dia de chuva"*. Qual dos dois sobrevive? Anote quando cada um vence — é exatamente a tabela *"steps enumeráveis em código" vs "objetivo conhecido, caminho não"*.
+
+```
+Resultado: 
+
+Workflow: não lidou corretamente. A API não retornou os parâmetros adequados e o workflow quebrou.
+Agent: foi inteligente e usou as tools fornecidas à seu favor. Dessa forma, foi capaz de sugerir músicas e criar uma playlist com um nome relacionado ao contexto vago do prompt.
+```
 
 ### 🔨 Quebre de propósito
 1. `max_iterations=1`: o que o `AgentResult` retorna? O agente "fingiu" que terminou?
